@@ -1,0 +1,10 @@
+{
+    "name": "node-server",
+    "description": "A sample Node.js app using Express 4",
+    "dependencies": {
+        "express": "*",
+        "socket.io": "^4.4.1"
+    },
+    "author": "Miaoxuan Han",
+    "license": "MIT"
+}
